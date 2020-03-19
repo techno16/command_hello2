@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //Local Repository test
 //test.txt modified Local
 //For commit GitHub tutorial
